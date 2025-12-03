@@ -16,5 +16,6 @@ const func=async()=>{
     }
     // fluo
     //fkuo 2
+    // a good konflict
 }
 func()
