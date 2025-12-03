@@ -18,7 +18,7 @@ const func=async()=>{
 
     //fkuo 2
     // a good konflict
-
+//be not konflict vsk
     //fkuo 2 &4
 
 }
