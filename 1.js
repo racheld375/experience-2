@@ -15,5 +15,6 @@ const func=async()=>{
         fs.appendFile("./new",arrnames[i]+" : "+arrgrades[i])
     }
     // fluo
+    //fkuo 2
 }
 func()
