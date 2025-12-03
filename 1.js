@@ -15,7 +15,7 @@ const func=async()=>{
         fs.appendFile("./new",arrnames[i]+" : "+arrgrades[i])
     }
     // fluo
-
+//be not konflict git
     //fkuo 2
     // a good konflict
 
