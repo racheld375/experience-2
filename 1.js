@@ -12,7 +12,7 @@ const func=async()=>{
     const arrgrades=sgrades.split("\n")
     const length=Math.min(arrgrades.length,arrnames.length)
     for(let i=0;i<length;i++){
-        fs.appendFile("./new",arrnames[i]+" : "+arrgrades[i])
+        fs.appendFile("./new",arrnames[i]+"your mark is"+" : "+arrgrades[i])
     }
     // fluo
 //be not konflict git
